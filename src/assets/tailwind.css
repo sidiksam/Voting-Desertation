@@ -1,0 +1,30 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.bgImage {
+  background-image: url("https://www.ecfr.eu/images/web/Demo_Minsk806.jpg");
+
+  background-repeat: no-repeat;
+  background: cover;
+  background-position: center;
+}
+.bgOpercity {
+  background-color: rgba(34, 32, 32, 0.801);
+}
+
+.loginBg {
+  background-color: #4ac5cf;
+}
+.votingBackground{
+  background-color:#f4f4f4;
+}
+.back{
+  background-color: #a7a2a257;
+}
+
+.text{
+  color: #4ac5cf;
+}
