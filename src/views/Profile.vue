@@ -28,9 +28,9 @@
             </div>
           </div>
         </div>
-        <div class="bg-white mt-16 w-5/6 rounded">
+        <div class="bg-white mt-16 rounded">
           <div>
-            <div class="flex  ml-12 pt-10">
+            <div class="flex  ml-32 pt-10">
               <p>
                 <svg width="32" height="40" viewBox="0 0 24 24" fill="teal">
                   <path
@@ -44,7 +44,7 @@
               </p>
               <p class="text-xl pl-8 pt-1 text-gray-500">Biography</p>
             </div>
-            <div class="mx-20 text-sm w-1/2 pl-8 p-1 text-gray-600 font-light">
+            <div class="mx-40 text-sm w-1/2 pl-8 p-1 text-gray-600 font-light">
               <P
                 >Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum,
                 sit iusto odio neque dolorem necessitatibus eveniet sed, quia
@@ -70,7 +70,7 @@ export default defineComponent({
     return {
       profiles: [
         {
-          id:1,
+          id: 1,
           photo:
             "https://lh3.googleusercontent.com/proxy/soZ9QJ6-qReNY-2KC3Qa1HQZq0mkt4pdxgvcrQwVcMuOvDcgusRQPtey5wQ0IV9bAvjwEvX6nFAdLI0PcIcqWGcuYIgVa1px5mJm",
           name: "Frobay College Election",

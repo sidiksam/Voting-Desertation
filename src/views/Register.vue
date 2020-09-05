@@ -48,9 +48,9 @@
         />
       </div>
       <div
-        class=" flex mx-auto w-1/2 mt-12 text-sm p-3 rounded  border-2 hover:bg-white hover:text-gray-500  duration-500"
+        class=" flex mx-auto w-1/2 mt-12 text-sm p-3 rounded  border-2 text-white hover:bg-white hover:text-gray-500  duration-500"
       >
-        <p class="mx-auto text-white  ">Login</p>
+        <p class="mx-auto   ">Login</p>
       </div>
       
       

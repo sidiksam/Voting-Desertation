@@ -59,7 +59,7 @@
                           />
                         </svg>
                       </p>
-                      <p class="pb-2 text-center pl-2">View Manifesto</p>
+                      <p class="pb-2 text-center pl-2">View Profile</p>
                     </div>
                   </div>
                 </div>
